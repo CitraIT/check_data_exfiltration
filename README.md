@@ -9,7 +9,7 @@ Get our students hands-on on basic data exfiltration techniques. This script for
 
 ✨ How It Works  
 In the file data.dat you will find the list of ip's and ports that i got when scanning a list of tor exit nodes.  
-You can get this list on: https://check.torproject.org/torbulkexitlist
+You can grab tor node exit ip's on: https://check.torproject.org/torbulkexitlist
 
 💈 How to Use It  
 Clone this reporitory or download it as a zip.  
